@@ -1,8 +1,41 @@
-2026-01-11 13:56
+<!-- ===================================== -->
+<!--  Reverse Shell Stabilization Guide     -->
+<!-- ===================================== -->
 
-Status: #developed #segurança 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Developed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Topic-Reverse%20Shell-critical?style=for-the-badge">
+</p>
 
-Tags: [[CyberSecurity]] | [[Reverse Shell]]
+<p align="center">
+  <img src="https://img.shields.io/badge/Post--Exploitation-Offensive-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Linux-Terminal-black?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Networking-TCP/IP-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Hardening-Defensive-informational?style=flat-square">
+</p>
+
+---
+
+# 🔁 Reverse Shell — Estabilização e Upgrade de TTY
+
+> Guia técnico completo sobre **reverse shells**, abordando desde o estabelecimento inicial da conexão até a **estabilização total do terminal (TTY interativo)**, incluindo técnicas usadas em **pós-exploração, pentest e laboratórios controlados**.
+
+---
+
+### 📌 Metadados
+
+- **Data:** 2026-01-11  
+- **Status:** `#developed`  
+- **Categoria:** Post-Exploitation · Reverse Shell  
+- **Ambiente:** Linux · Unix-like  
+
+---
+
+### 🏷️ Tags
+
+`#ReverseShell` `#PostExploitation` `#Pentest` `#CyberSecurity`  
+`#TTY` `#ShellUpgrade` `#LinuxSecurity`  
+`#RedTeam` `#BlueTeam` `#Networking`
 
 ----
 ## O que é um Reverse Shell?
